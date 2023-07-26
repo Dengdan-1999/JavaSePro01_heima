@@ -1,0 +1,2 @@
+aaple hello dengdandan 这是一个测试的文本文件
+现在测试字节输入流dandan love you
